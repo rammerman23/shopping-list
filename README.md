@@ -1,3 +1,5 @@
 - Meat
 - Cheese
 - Sauce
+- Olives
+- Mushrooms
